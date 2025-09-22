@@ -2,6 +2,9 @@
 
 This repository contains a trained RNN-based headline generator for CNN articles and a small Gradio web app (`app.py`) to interactively generate headlines from article text. There's also a Jupyter notebook (`CODE.ipynb`) used during experimentation and development.
 
+# hugging face UI 
+https://huggingface.co/spaces/JHANANISHRI-B/RNN
+
 ## Contents
 
 - `app.py` — Gradio application that loads a trained Keras model and tokenizers to generate headlines from input articles.
@@ -54,8 +57,7 @@ This repository contains a trained RNN-based headline generator for CNN articles
 
 Open `CODE.ipynb` in Jupyter or VS Code. The notebook likely contains data loading, preprocessing, tokenizer saving, model training, and evaluation code. Use it to retrain or inspect preprocessing steps if your tokenizers or model are missing.
 
-# hugging face UI 
-https://huggingface.co/spaces/JHANANISHRI-B/RNN
+
 
 ## Requirements
 
