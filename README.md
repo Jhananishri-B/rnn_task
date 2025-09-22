@@ -2,7 +2,7 @@
 
 This repository contains a trained RNN-based headline generator for CNN articles and a small Gradio web app (`app.py`) to interactively generate headlines from article text. There's also a Jupyter notebook (`CODE.ipynb`) used during experimentation and development.
 
-# hugging face UI 
+# Hugging face UI 
 https://huggingface.co/spaces/JHANANISHRI-B/RNN
 
 ## Contents
